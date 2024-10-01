@@ -1,8 +1,8 @@
 create a fork to save a copy to your own github
 
-git clone the repo down to your pc
+git clone the repo (your copy, not my one) down to your pc
 
-## run npm i after downloading (cd into the project folder first)
+run **npm i** after downloading (cd into the project folder first)
 
 I would rename the project
 
